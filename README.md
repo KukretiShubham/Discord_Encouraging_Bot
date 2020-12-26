@@ -13,3 +13,6 @@ I deployed it on free cloud service named repl.it
 ---> to keep it alive we allowed constant ping at freqency of 5 mint from an third party pinging service
     this keeps our bot online in discord
      
+
+It is not done if you don't mention your mentor
+I learnt it from freecodecamp 
