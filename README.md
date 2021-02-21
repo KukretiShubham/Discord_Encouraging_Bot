@@ -15,4 +15,4 @@ I deployed it on free cloud service named repl.it
      
 
 It is not done if you don't mention your mentor
-I learnt it from freecodecamp 
+I learnt it from freecodecamp YT channel! 
